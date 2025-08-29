@@ -2,10 +2,10 @@
 
 Some description!
 
-##Subheader
+## Subheader
 
 Watch tutorial on Youtube.
 
-Test push! aaaaa
+### Local Development
 
-Testtt
+1. Open index.html in your browser.
